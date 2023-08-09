@@ -4,8 +4,10 @@
 
 The directory is organized as follows:
 
-1. **Data**: Contains the path to the zip files located on google drive, as the size is large. It also contains a folder "Output" in which the expected output images are added.
-2. **Code.ipynb**: Contains code to the below mentioned project
+1. **Data**: Contains the path to the zip files located on google drive, as the size is large (**accessible and can be downloaded**). It also contains a folder "Output" in which the expected output images are added.
+2. **Pillow,Pytesseract,OpenCV.ipynb**: Contains code for the below-mentioned project.
+
+**Note:** In the code, to access the zip file, I didn't mention the google drive path. Rather, I mentioned just the file name. So, you can download the files and change the path. 
 
 
 ## Project Details
