@@ -7,9 +7,11 @@ Take a ZIP file of images and process them, using a library built into python. A
 Each page of the newspapers is saved as a single PNG image in a file called images.zip. These newspapers are in English, and contain a variety of stories, advertisements and images. Note: This file is fairly large (~200 MB) and may take some time to work with, use small_img.zip for testing.
 
 Here's an example of the output expected. Using the small_img.zip file, if searched for the string "Christopher", the following image has to be displayed:
+
 (![alt text](https://github.com/RaajithaMiddi/Face-Detection-using-OpenCV-Tesseract/blob/main/Data/Output/small_project.png)
 
 If using the images.zip file, searched for "Mark", the following image has to be displayed (note that there are times when there are no faces on a page, but a word is found!):
+
 ![alt text](https://github.com/RaajithaMiddi/Face-Detection-using-OpenCV-Tesseract/blob/main/Data/Output/large_project.png)
 
 Note: That big file can take some time to process! Use the small one for testing.
