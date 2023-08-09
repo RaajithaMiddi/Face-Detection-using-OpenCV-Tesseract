@@ -8,7 +8,7 @@ Each page of the newspapers is saved as a single PNG image in a file called imag
 
 Here's an example of the output expected. Using the small_img.zip file, if searched for the string "Christopher", the following image has to be displayed:
 
-(![alt text](https://github.com/RaajithaMiddi/Face-Detection-using-OpenCV-Tesseract/blob/main/Data/Output/small_project.png)
+![alt text](https://github.com/RaajithaMiddi/Face-Detection-using-OpenCV-Tesseract/blob/main/Data/Output/small_project.png)
 
 If using the images.zip file, searched for "Mark", the following image has to be displayed (note that there are times when there are no faces on a page, but a word is found!):
 
