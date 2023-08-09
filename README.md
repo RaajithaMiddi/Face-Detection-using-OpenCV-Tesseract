@@ -1,6 +1,14 @@
 # Face-Detection-using-OpenCV-Tesseract
 
-**The Project**
+## Directory Structure
+
+The directory is organized as follows:
+
+1. **Data**: Contains the path to the zip files located on google drive, as the size is large. It also contains a folder "Output" in which the expected output images are added.
+2. **Code.ipynb**: Contains code to the below mentioned project
+
+
+## Project Details
 
 Take a ZIP file of images and process them, using a library built into python. A ZIP file takes several different files and compresses them, thus saving space, into one single file. The files in the ZIP file are newspaper images (like you saw in week 3). Task is to write python code which allows one to search through the images looking for the occurrences of keywords and faces. E.g. if you search for "pizza" it will return a contact sheet of all of the faces which were located on the newspaper page which mentions "pizza".
 
